@@ -1,0 +1,142 @@
+﻿// =============================================================================
+// ExxonMobil AI Agent Foundry - CXO Command Center Data
+// =============================================================================
+
+export const cxoKPIs = [
+  { id: 'enterprise-apps', label: 'Enterprise Apps', value: '98.7%', sublabel: 'SLA Compliance', icon: 'fas fa-server', cardClass: 'success' },
+  { id: 'infrastructure', label: 'Infrastructure', value: '99.6%', sublabel: 'Uptime', icon: 'fas fa-network-wired', cardClass: 'success' },
+  { id: 'alerts', label: 'Active Alerts', value: '7', sublabel: '3 Critical', icon: 'fas fa-bell', cardClass: 'alert' },
+  { id: 'requests', label: 'Open Requests', value: '342', sublabel: '89% within SLA', icon: 'fas fa-ticket-alt', cardClass: '' },
+  { id: 'incidents', label: 'Active Incidents', value: '38', sublabel: '12 High Priority', icon: 'fas fa-exclamation-triangle', cardClass: 'warning' },
+  { id: 'kpis-impacted', label: 'KPIs Impacted', value: '2', sublabel: 'Requires Review', icon: 'fas fa-chart-line', cardClass: 'alert' },
+];
+
+export const globalLocations = [
+  { id: 'houston', name: 'Houston HQ', lat: 29.7604, lng: -95.3698, health: 98, incidents: 3, apps: 45 },
+  { id: 'london', name: 'London', lat: 51.5074, lng: -0.1278, health: 96, incidents: 5, apps: 32 },
+  { id: 'singapore', name: 'Singapore', lat: 1.3521, lng: 103.8198, health: 99, incidents: 1, apps: 28 },
+  { id: 'bangalore', name: 'Bangalore', lat: 12.9716, lng: 77.5946, health: 97, incidents: 4, apps: 38 },
+  { id: 'calgary', name: 'Calgary', lat: 51.0447, lng: -114.0719, health: 95, incidents: 6, apps: 22 },
+  { id: 'brussels', name: 'Brussels', lat: 50.8503, lng: 4.3517, health: 98, incidents: 2, apps: 18 },
+  { id: 'tokyo', name: 'Tokyo', lat: 35.6762, lng: 139.6503, health: 100, incidents: 0, apps: 15 },
+  { id: 'rio', name: 'Rio de Janeiro', lat: -22.9068, lng: -43.1729, health: 94, incidents: 7, apps: 20 },
+  { id: 'perth', name: 'Perth', lat: -31.9505, lng: 115.8605, health: 97, incidents: 3, apps: 12 },
+];
+
+export const regionalTable = [
+  { region: 'North America', health: 98, incidents: 12, sla: '99.1%', trend: 'up' },
+  { region: 'Europe', health: 96, incidents: 8, sla: '97.8%', trend: 'down' },
+  { region: 'Asia Pacific', health: 99, incidents: 5, sla: '99.5%', trend: 'up' },
+  { region: 'South America', health: 94, incidents: 7, sla: '96.2%', trend: 'down' },
+  { region: 'Middle East', health: 97, incidents: 4, sla: '98.4%', trend: 'up' },
+];
+
+export const categoryHealth = [
+  { id: 'enterprise', name: 'Enterprise Solutions', health: 98, status: 'healthy', icon: 'fas fa-building', color: '#22c55e' },
+  { id: 'supply-chain', name: 'Supply Chain & Logistics', health: 94, status: 'warning', icon: 'fas fa-truck', color: '#f97316' },
+  { id: 'maintenance', name: 'Maintenance & Reliability', health: 97, status: 'healthy', icon: 'fas fa-wrench', color: '#22c55e' },
+  { id: 'hse', name: 'HSE & Compliance', health: 99, status: 'healthy', icon: 'fas fa-shield-alt', color: '#22c55e' },
+  { id: 'cybersecurity', name: 'Cybersecurity', health: 96, status: 'warning', icon: 'fas fa-lock', color: '#f97316' },
+  { id: 'operations', name: 'Operations Technology', health: 95, status: 'warning', icon: 'fas fa-industry', color: '#f97316' },
+];
+
+export const categoryDetails = {
+  enterprise: {
+    kpis: [
+      { name: 'SAP ECC Uptime', value: '99.8%', status: 'green' },
+      { name: 'Icertis CLM Response', value: '1.2s', status: 'green' },
+      { name: 'Maximo EAM Sync', value: '99.1%', status: 'green' },
+      { name: 'Salesforce CRM', value: '98.5%', status: 'green' },
+      { name: 'ServiceNow ITSM', value: '99.9%', status: 'green' },
+    ],
+  },
+  'supply-chain': {
+    kpis: [
+      { name: 'Logistics Cargo Tracking', value: '94.2%', status: 'amber' },
+      { name: 'WPCS Order Processing', value: '96.8%', status: 'green' },
+      { name: 'Inventory Sync Rate', value: '91.5%', status: 'amber' },
+      { name: 'Supplier Portal Uptime', value: '97.3%', status: 'green' },
+    ],
+  },
+  maintenance: {
+    kpis: [
+      { name: 'Primavera P6 Scheduling', value: '98.2%', status: 'green' },
+      { name: 'Maximo Work Orders', value: '97.5%', status: 'green' },
+      { name: 'Predictive Maintenance', value: '95.8%', status: 'green' },
+      { name: 'Asset Reliability Index', value: '96.1%', status: 'green' },
+    ],
+  },
+  hse: {
+    kpis: [
+      { name: 'Enablon Reporting', value: '99.5%', status: 'green' },
+      { name: 'PSM Compliance', value: '99.8%', status: 'green' },
+      { name: 'Environmental Monitoring', value: '98.9%', status: 'green' },
+      { name: 'Safety Incident Tracking', value: '99.2%', status: 'green' },
+    ],
+  },
+  cybersecurity: {
+    kpis: [
+      { name: 'Threat Detection Rate', value: '96.4%', status: 'amber' },
+      { name: 'Patch Compliance', value: '94.8%', status: 'amber' },
+      { name: 'IAM Policy Compliance', value: '97.2%', status: 'green' },
+      { name: 'SOC Response Time', value: '3.2m', status: 'green' },
+    ],
+  },
+  operations: {
+    kpis: [
+      { name: 'AVEVA PI Tag Collection', value: '95.1%', status: 'amber' },
+      { name: 'SCADA Uptime', value: '99.2%', status: 'green' },
+      { name: 'OT Network Latency', value: '12ms', status: 'green' },
+      { name: 'DCS Integration', value: '93.8%', status: 'amber' },
+    ],
+  },
+};
+
+export const topIssues = [
+  { id: 1, title: 'Logistics Cargo tracking latency spike', priority: 'High', impact: 'Supply Chain', team: 'IT-SCM-Global', status: 'In Progress', statusClass: 'warning' },
+  { id: 2, title: 'AVEVA PI tag data gap > 15 min', priority: 'Critical', impact: 'Operations', team: 'IT-OT-Process', status: 'Investigating', statusClass: 'alert' },
+  { id: 3, title: 'Icertis CLM batch job failure', priority: 'Medium', impact: 'Legal', team: 'IT-Apps-Global', status: 'Scheduled Fix', statusClass: '' },
+  { id: 4, title: 'Cybersecurity patch deployment delay', priority: 'High', impact: 'Security', team: 'IT-Security-Ops', status: 'In Review', statusClass: 'warning' },
+  { id: 5, title: 'Maximo EAM sync failure with SAP PM', priority: 'Medium', impact: 'Maintenance', team: 'IT-ERP-Basis', status: 'Fix Deployed', statusClass: 'success' },
+];
+
+export const weekOverWeek = {
+  improvements: [
+    'Enterprise Apps SLA improved 0.3% to 98.7%',
+    'Infrastructure uptime reached 99.6%',
+    'Incident resolution rate up 12%',
+  ],
+  attention: [
+    'Supply Chain health dropped 2.1%',
+    'Cybersecurity patch compliance below 95%',
+    'OT network latency trending up',
+  ],
+  metrics: [
+    { label: 'MTTR', current: '18m', previous: '24m', trend: 'up' },
+    { label: 'Agent Resolution', current: '73%', previous: '68%', trend: 'up' },
+    { label: 'Customer Satisfaction', current: '4.6', previous: '4.5', trend: 'up' },
+  ],
+};
+
+export const productionChart = {
+  total: '1,987',
+  unit: 'MBOED',
+  segments: [
+    { label: 'Permian', value: 620, percent: 31.2, color: '#3b82f6' },
+    { label: 'Guyana', value: 420, percent: 21.1, color: '#22c55e' },
+    { label: 'LNG', value: 350, percent: 17.6, color: '#f97316' },
+    { label: 'Chemicals', value: 280, percent: 14.1, color: '#8b5cf6' },
+    { label: 'Downstream', value: 197, percent: 9.9, color: '#ef4444' },
+    { label: 'Other', value: 120, percent: 6.0, color: '#64748b' },
+  ],
+};
+
+export const aiAgentStatus = [
+  { name: 'NOC Workbench Agent', active: 1, resolved: 156, status: 'online' },
+  { name: 'Invoice Reconciliation', active: 1, resolved: 89, status: 'online' },
+  { name: 'PI Tag Creation Agent', active: 1, resolved: 234, status: 'online' },
+  { name: 'Incident Triage Agent', active: 1, resolved: 78, status: 'online' },
+  { name: 'Cybersecurity SOC Agent', active: 1, resolved: 112, status: 'online' },
+  { name: 'Infrastructure Resolver', active: 1, resolved: 67, status: 'online' },
+  { name: 'Report Generation Agent', active: 1, resolved: 60, status: 'online' },
+];

@@ -1,0 +1,3387 @@
+[
+  {
+    "id": "INC0010038",
+    "title": "aveva pi tag issue not working",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "16h ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010038",
+          "Category: Inquiry / Help",
+          "Opened: 2026-02-22 23:53:05"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "5237eae08313b610077ec829feaad394",
+    "_snow_created_on": "2026-02-22 23:53:05",
+    "_snow_updated_on": "2026-02-22 23:54:56",
+    "_polled_at": "2026-02-23T07:53:23.218Z"
+  },
+  {
+    "id": "INC0010036",
+    "title": "asset swap issue",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "16h ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.1,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010036",
+          "Category: Inquiry / Help",
+          "Opened: 2026-02-22 23:24:59"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.1/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "65702eac839f7610077ec829feaad389",
+    "_snow_created_on": "2026-02-22 23:24:59",
+    "_snow_updated_on": "2026-02-22 23:52:38",
+    "_polled_at": "2026-02-23T07:25:22.072Z"
+  },
+  {
+    "id": "INC0010033",
+    "title": "sap invoice issue",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "17h ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.9,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010033",
+          "Category: Inquiry / Help",
+          "Opened: 2026-02-22 23:01:34"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.9/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "087b1a6c839f7610077ec829feaad33c",
+    "_snow_created_on": "2026-02-22 23:01:34",
+    "_snow_updated_on": "2026-02-22 23:02:42",
+    "_polled_at": "2026-02-23T07:01:51.551Z"
+  },
+  {
+    "id": "INC0010031",
+    "title": "pi svc is down",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "1d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.7,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: In Progress"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010031",
+          "Category: Inquiry / Help",
+          "Opened: 2026-02-22 08:53:06"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.7/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "4b299b94831b3610077ec829feaad349",
+    "_snow_created_on": "2026-02-22 08:53:06",
+    "_snow_updated_on": "2026-02-22 08:53:06",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010029",
+    "title": "aveva pi tag creation issue",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "6d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010029",
+          "Category: Inquiry / Help",
+          "Opened: 2026-02-16 22:38:48"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "f59c17a683c3fa10077ec829feaad33e",
+    "_snow_created_on": "2026-02-16 22:38:48",
+    "_snow_updated_on": "2026-02-16 22:38:48",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010023",
+    "title": "asset swap request not working",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "9d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 5.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: In Progress",
+      "Description: unable to submit asset swap request"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010023",
+          "Category: Inquiry / Help",
+          "Opened: 2026-02-14 02:47:47"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "9b98f0f1830b3610077ec829feaad3eb",
+    "_snow_created_on": "2026-02-14 02:47:47",
+    "_snow_updated_on": "2026-02-14 02:47:47",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010021",
+    "title": "Database Performance Degradation - PROD-DB-02 Index Fragmentation",
+    "priority": "medium",
+    "agent": "Oracle DBA Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Oracle DBA Agent",
+    "complexity": 5.5,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Database",
+      "Subcategory: null",
+      "Assigned To: Luke Wilson",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: HIGH: Production database PROD-DB-02 experiencing severe performance degradation due to index fragmentation.\n\nDETAILS:\n- Database: PROD-DB-02 (SQL Server 2019, Enterprise Edition)\n- Issue: Slow query "
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010021",
+          "Category: Database",
+          "Opened: 2026-02-13 05:54:02"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.5/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: database",
+          "Decision: Assign to Oracle DBA Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Oracle DBA Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "3c0a182183c7b210077ec829feaad399",
+    "_snow_created_on": "2026-02-13 05:54:02",
+    "_snow_updated_on": "2026-02-13 05:54:02",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010022",
+    "title": "Network Latency Spike - 15 Core Switches Correlated Packet Loss",
+    "priority": "medium",
+    "agent": "NOC Workbench Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "NOC Workbench Agent",
+    "complexity": 4.9,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Network",
+      "Subcategory: null",
+      "Assigned To: Abel Tuter",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: MEDIUM: Intermittent network latency spike and correlated packet loss across 15 core fabric switches.\n\nDETAILS:\n- Affected Switches: 15 switches across core fabric (SW-CORE-01 through SW-CORE-15)\n- Pa"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010022",
+          "Category: Network",
+          "Opened: 2026-02-13 05:54:02"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.9/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: network",
+          "Decision: Assign to NOC Workbench Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to NOC Workbench Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "f80a182183c7b210077ec829feaad3b1",
+    "_snow_created_on": "2026-02-13 05:54:02",
+    "_snow_updated_on": "2026-02-13 05:54:02",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010019",
+    "title": "Power BI Gateway Credential Failure - 12 Executive Dashboards Down",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 3.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: David Loo",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: CRITICAL: Power BI Gateway service failure due to credential mismatch affecting 12 executive dashboards.\n\nDETAILS:\n- Service: Power BI On-Premises Data Gateway (PBIGW-PROD-01)\n- Failure: Credential mi"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010019",
+          "Category: Software",
+          "Opened: 2026-02-13 05:54:01"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 3.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "e80a182183c7b210077ec829feaad384",
+    "_snow_created_on": "2026-02-13 05:54:01",
+    "_snow_updated_on": "2026-02-23 07:31:59",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010020",
+    "title": "O2C SQL Connector Timeout - 247 Orders at Risk ($18.5M)",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: CRITICAL: Order-to-Cash (O2C) pipeline failure due to SQL Connector v2.1.5 timeout regression.\n\nDETAILS:\n- Pipeline: O2C-PROD-OrderProcessing\n- Connector: SQL Connector v2.1.5 (upgraded from v2.1.4 on"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010020",
+          "Category: Software",
+          "Opened: 2026-02-13 05:54:01"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "280a182183c7b210077ec829feaad39d",
+    "_snow_created_on": "2026-02-13 05:54:01",
+    "_snow_updated_on": "2026-02-23 07:31:59",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010017",
+    "title": "SAP MDG Validation Exception - Business Partner Banking IBAN",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 3.9,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: HIGH: SAP MDG Master Data validation exception for Business Partner banking details update.\n\nDETAILS:\n- Change Request: MDG-2025-004521\n- Data Domain: Business Partner (BP)\n- Sub-Domain: Banking Detai"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010017",
+          "Category: Software",
+          "Opened: 2026-02-13 05:54:00"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 3.9/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "940ad42183c7b210077ec829feaad38e",
+    "_snow_created_on": "2026-02-13 05:54:00",
+    "_snow_updated_on": "2026-02-13 05:54:00",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010018",
+    "title": "VEEAM Backup Service Failure - File Server VEEAM-01 Hung",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.3,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: Operating System",
+      "Assigned To: Fred Luddy",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: HIGH: VEEAM backup service on server VEEAM-01 is in hung/not responding state.\n\nDETAILS:\n- Server: VEEAM-01 (Windows Server 2022)\n- Service: Veeam Backup Service (VeeamBackupSvc)\n- Service State: Hung"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010018",
+          "Category: Software",
+          "Opened: 2026-02-13 05:54:00"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.3/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "540a182183c7b210077ec829feaad321",
+    "_snow_created_on": "2026-02-13 05:54:00",
+    "_snow_updated_on": "2026-02-13 05:54:00",
+    "_polled_at": "2026-02-23T07:00:51.950Z"
+  },
+  {
+    "id": "INC0010016",
+    "title": "SAP IDoc Processing Failure - INVOIC02 Posting Error",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: HIGH: SAP IDoc processing failure for INVOIC02 document type on ECC PROD system.\n\nDETAILS:\n- IDoc Number: 4500012847\n- IDoc Type: INVOIC02 (Invoice)\n- Message Type: INVOIC\n- Direction: Inbound\n- Statu"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010016",
+          "Category: Software",
+          "Opened: 2026-02-13 05:53:59"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "800ad42183c7b210077ec829feaad312",
+    "_snow_created_on": "2026-02-13 05:53:59",
+    "_snow_updated_on": "2026-02-13 05:53:59",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0010015",
+    "title": "Azure Backup Pipeline Security Alert - Splunk SIEM Anomaly",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 5,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Beth Anglin",
+      "Impact: 1 - High",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: CRITICAL: Security alert triggered for Azure backup pipeline anomaly via Splunk SIEM.\n\nDETAILS:\n- Alert Source: Splunk SIEM (Alert ID: SPLUNK-SEC-2026-0213-001)\n- Alert Type: Azure backup pipeline beh"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010015",
+          "Category: Software",
+          "Opened: 2026-02-13 05:53:58"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "480a942183c7b210077ec829feaad3ad",
+    "_snow_created_on": "2026-02-13 05:53:58",
+    "_snow_updated_on": "2026-02-13 05:53:58",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0010014",
+    "title": "Azure Pipeline Failure - ADF-PROD-DataSync-01 Timeout",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 3.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: CRITICAL: Azure Data Factory Production Pipeline ADF-PROD-DataSync-01 has failed with activity timeout.\n\nDETAILS:\n- Pipeline: ADF-PROD-DataSync-01\n- Failure Type: Activity timeout at Copy Activity sta"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010014",
+          "Category: Software",
+          "Opened: 2026-02-13 05:53:58"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 3.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "b3f9942183c7b210077ec829feaad375",
+    "_snow_created_on": "2026-02-13 05:53:58",
+    "_snow_updated_on": "2026-02-23 07:31:59",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0010012",
+    "title": "Invoice Reconciliation - Vendor INV-2025-78432",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.4,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: MEDIUM: Invoice reconciliation failure for Vendor Acme Industrial Supply.\n\nDETAILS:\n- Invoice Number: INV-2025-78432\n- Vendor: Acme Industrial Supply (Vendor ID: V-10045)\n- Invoice Amount: $425,000.00"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010012",
+          "Category: Software",
+          "Opened: 2026-02-13 05:53:57"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.4/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "e7f95c2d8387b210077ec829feaad36d",
+    "_snow_created_on": "2026-02-13 05:53:57",
+    "_snow_updated_on": "2026-02-13 05:53:57",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0010013",
+    "title": "AVEVA PI Tag Creation - New Equipment Sensor FT-4501A",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.3,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Howard Johnson",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: MEDIUM: New AVEVA PI Tag creation request for Flow Transmitter FT-4501A at Processing Unit 45.\n\nDETAILS:\n- Equipment: Flow Transmitter FT-4501A\n- Processing Unit: Unit 45 (Downstream Operations)\n- Tag"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010013",
+          "Category: Software",
+          "Opened: 2026-02-13 05:53:57"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.3/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "63f9942183c7b210077ec829feaad358",
+    "_snow_created_on": "2026-02-13 05:53:57",
+    "_snow_updated_on": "2026-02-13 05:53:57",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0010011",
+    "title": "Network Core Switch Down - NOC Workbench Agent",
+    "priority": "medium",
+    "agent": "NOC Workbench Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "NOC Workbench Agent",
+    "complexity": 4,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Network",
+      "Subcategory: null",
+      "Assigned To: Abel Tuter",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: CRITICAL: Core Network Switch CORE-SW-01 (Cisco Nexus 9300) is DOWN at Houston Data Center, Rack A14.\n\nIMPACT:\n- 47 upstream business applications are affected\n- All services dependent on core switch "
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010011",
+          "Category: Network",
+          "Opened: 2026-02-13 05:53:56"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: network",
+          "Decision: Assign to NOC Workbench Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to NOC Workbench Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "1bf954a98387b210077ec829feaad32d",
+    "_snow_created_on": "2026-02-13 05:53:56",
+    "_snow_updated_on": "2026-02-23 07:31:59",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0010001",
+    "title": "Several Background Checks are not going through due to missing or blank emails to Certiphi. The issues are noticed for Internal Candidates.",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "10d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: *JEMPLOYEE-IBM",
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Support Analyst",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Several Background Checks are not going through due to missing or blank emails to Certiphi. The issues are noticed for Internal Candidates. \n•\tReference ID : CAND – XXXX\n•\tSeverity : Error\n•\tMessage S"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0010001",
+          "Category: Software",
+          "Opened: 2026-02-12 18:11:07"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "3d587d9183077210077ec829feaad351",
+    "_snow_created_on": "2026-02-12 18:11:07",
+    "_snow_updated_on": "2026-02-23 07:31:59",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000055",
+    "title": "SAP Sales app is not accessible",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "66d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.7,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: SAP Sales and Distribution",
+      "Category: null",
+      "Subcategory: null",
+      "Assigned To: Beth Anglin",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Unable to get into the SAP Sales app. It was working yesterday."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000055",
+          "Category: null",
+          "Opened: 2025-12-18 20:49:39"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.7/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: null",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "d71f7935c0a8016700802b64c67c11c6",
+    "_snow_created_on": "2025-12-18 20:49:39",
+    "_snow_updated_on": "2026-01-01 15:08:31",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000047",
+    "title": "Issue with email",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "67d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 5.1,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: *JEMPLOYEE-IBM",
+      "Category: Inquiry / Help",
+      "Subcategory: Email",
+      "Assigned To: Beth Anglin",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: Can't connect to email from my laptop."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000047",
+          "Category: Inquiry / Help",
+          "Opened: 2025-12-18 12:53:47"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.1/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "a9a16740c61122760004fe9095b7ddca",
+    "_snow_created_on": "2025-12-18 12:53:47",
+    "_snow_updated_on": "2026-01-08 11:51:52",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000053",
+    "title": "The SAP HR application is not accessible",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "67d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 5.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: SAP Human Resources",
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: Beth Anglin",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: I've been trying to access the SAP HR application for the last few hours. Each time I go into the application, nothing loads."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000053",
+          "Category: Inquiry / Help",
+          "Opened: 2025-12-18 12:48:46"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "d71b3b41c0a8016700a8ef040791e72a",
+    "_snow_created_on": "2025-12-18 12:48:46",
+    "_snow_updated_on": "2026-01-08 11:42:25",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000052",
+    "title": "SAP Financial Accounting application appears to be down",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "67d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 5.3,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: SAP Financial Accounting",
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Fred Luddy",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Main menu doesn't load when I open the SAP Financial Accounting application."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000052",
+          "Category: Software",
+          "Opened: 2025-12-18 12:48:40"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.3/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "d7195138c0a8016700fd68449cfcd484",
+    "_snow_created_on": "2025-12-18 12:48:40",
+    "_snow_updated_on": "2026-01-01 13:50:24",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000051",
+    "title": "Manager can't access SAP Controlling application",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "67d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: SAP Controlling",
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Don Goodliffe",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Was able to access SAP Controlling application last week but doesn't seem to be working as of today. Is there an outage?"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000051",
+          "Category: Software",
+          "Opened: 2025-12-18 12:48:32"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "d7158da0c0a8016700eef46c8d1f3661",
+    "_snow_created_on": "2025-12-18 12:48:32",
+    "_snow_updated_on": "2026-01-08 11:40:45",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000050",
+    "title": "Can't access Exchange server - is it down?",
+    "priority": "medium",
+    "agent": "Infra Fault Resolver Agent",
+    "started": "67d ago",
+    "assignment": "agent",
+    "assignTo": "Infra Fault Resolver Agent",
+    "complexity": 5.4,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: EXCH-SD-05",
+      "Category: Hardware",
+      "Subcategory: null",
+      "Assigned To: Beth Anglin",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Can't connect to Exchange. Login credentials and network connection are working though."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000050",
+          "Category: Hardware",
+          "Opened: 2025-12-18 10:05:40"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.4/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: hardware",
+          "Decision: Assign to Infra Fault Resolver Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Infra Fault Resolver Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "ef43c6d40a0a0b5700c77f9bf387afe3",
+    "_snow_created_on": "2025-12-18 10:05:40",
+    "_snow_updated_on": "2026-01-08 11:49:40",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000049",
+    "title": "Network storage unavailable",
+    "priority": "medium",
+    "agent": "NOC Workbench Agent",
+    "started": "67d ago",
+    "assignment": "agent",
+    "assignTo": "NOC Workbench Agent",
+    "complexity": 5.9,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: nyc rac nas200",
+      "Category: Network",
+      "Subcategory: null",
+      "Assigned To: Don Goodliffe",
+      "Impact: 2 - Medium",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Receiving error message with \"network path not found.\""
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000049",
+          "Category: Network",
+          "Opened: 2025-12-18 10:05:40"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.9/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: network",
+          "Decision: Assign to NOC Workbench Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to NOC Workbench Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "ef4225a40a0a0b5700d0b8a790747812",
+    "_snow_created_on": "2025-12-18 10:05:40",
+    "_snow_updated_on": "2026-01-08 11:52:34",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000046",
+    "title": "Can't access SFA software",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "68d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.5,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: Sales Force Automation",
+      "Category: Software",
+      "Subcategory: null",
+      "Impact: 1 - High",
+      "Urgency: 3 - Low",
+      "State: New",
+      "Description: Unable to login to SFA even though login credentials are correct."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000046",
+          "Category: Software",
+          "Opened: 2025-12-17 14:05:30"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.5/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "a9e30c7dc61122760116894de7bcc7bd",
+    "_snow_created_on": "2025-12-17 14:05:30",
+    "_snow_updated_on": "2025-12-17 14:37:27",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000044",
+    "title": "Can't log into SAP from my laptop today",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 3.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: null",
+      "Subcategory: null",
+      "Assigned To: Fred Luddy",
+      "Impact: 1 - High",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: Tried to connect to SAP and all I see is a \"Connecting….\" message but nothing else happens."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000044",
+          "Category: null",
+          "Opened: 2025-10-10 17:47:11"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 3.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: null",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "47204688a9fe1981011a20af100f381a",
+    "_snow_created_on": "2025-10-10 17:47:11",
+    "_snow_updated_on": "2026-01-08 11:52:03",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000041",
+    "title": "My desk phone does not work",
+    "priority": "medium",
+    "agent": "Infra Fault Resolver Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "Infra Fault Resolver Agent",
+    "complexity": 5.2,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Hardware",
+      "Subcategory: null",
+      "Assigned To: ITIL User",
+      "Impact: 1 - High",
+      "Urgency: 3 - Low",
+      "State: In Progress",
+      "Description: Unable to dial out or receive calls. Phone is plugged in but there's no dial tone."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000041",
+          "Category: Hardware",
+          "Opened: 2025-10-10 17:45:27"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.2/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: hardware",
+          "Decision: Assign to Infra Fault Resolver Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Infra Fault Resolver Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "471eb058a9fe198100f89592e1ea93d3",
+    "_snow_created_on": "2025-10-10 17:45:27",
+    "_snow_updated_on": "2026-01-08 11:52:15",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000040",
+    "title": "JavaScript error on hiring page of corporate website",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.4,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: WEBSERVER",
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: ITIL User",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: On Hold",
+      "Description: Seeing JavaScript error message on hiring page on Explorer and Firefox."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000040",
+          "Category: Inquiry / Help",
+          "Opened: 2025-10-10 17:43:54"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.4/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "471d4732a9fe198100affbf655e59172",
+    "_snow_created_on": "2025-10-10 17:43:54",
+    "_snow_updated_on": "2026-01-08 11:46:30",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000039",
+    "title": "Trouble getting to Oregon mail server",
+    "priority": "medium",
+    "agent": "NOC Workbench Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "NOC Workbench Agent",
+    "complexity": 3.9,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: MailServerUS",
+      "Category: Network",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New",
+      "Description: Unable to access Oregon mail server. Is it down?"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000039",
+          "Category: Network",
+          "Opened: 2025-10-10 17:42:29"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 3.9/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: network",
+          "Decision: Assign to NOC Workbench Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to NOC Workbench Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "471bfbc7a9fe198101e77a3e10e5d47f",
+    "_snow_created_on": "2025-10-10 17:42:29",
+    "_snow_updated_on": "2026-01-08 11:39:15",
+    "_polled_at": "2026-02-23T07:00:51.951Z"
+  },
+  {
+    "id": "INC0000037",
+    "title": "Request for a new service",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.5,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: EFOWEB",
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: Howard Johnson",
+      "Impact: 1 - High",
+      "Urgency: 3 - Low",
+      "State: In Progress",
+      "Description: Need to place order for a new machine. Will need help with installation also."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000037",
+          "Category: Inquiry / Help",
+          "Opened: 2025-10-10 17:35:36"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.5/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "4715ab62a9fe1981018c3efb96143495",
+    "_snow_created_on": "2025-10-10 17:35:36",
+    "_snow_updated_on": "2026-01-08 11:51:40",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000031",
+    "title": "Need help with Remedy. Can we configure UI?",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: David Loo",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Need to adjust layout of UI, add additional fields, and remove a few buttons. We are missing some critical fields that need to get added immediately."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000031",
+          "Category: Inquiry / Help",
+          "Opened: 2025-10-10 17:18:48"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "47064b68a9fe19810186793eefffc9b7",
+    "_snow_created_on": "2025-10-10 17:18:48",
+    "_snow_updated_on": "2026-01-08 11:44:20",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000029",
+    "title": "I can't get my weather report",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.7,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: WeatherBug",
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: Don Goodliffe",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: In Progress",
+      "Description: WeatherBug icon has disappeared from my desktop. Unable to get my weather report."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000029",
+          "Category: Inquiry / Help",
+          "Opened: 2025-10-10 17:01:31"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.7/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46f67787a9fe198101e06dfcf3a78e99",
+    "_snow_created_on": "2025-10-10 17:01:31",
+    "_snow_updated_on": "2026-01-08 11:50:57",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000027",
+    "title": "Please remove the latest hotfix from my PC",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: Windows XP Hotfix (SP2) Q817606",
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: ITIL User",
+      "Impact: 1 - High",
+      "Urgency: 2 - Medium",
+      "State: In Progress",
+      "Description: The hotfix was installed on my PC and now some of my applications have stopped working. Can I roll back to the previous version?"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000027",
+          "Category: Software",
+          "Opened: 2025-10-10 16:59:52"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46f4f4dfa9fe198100063e60278f76ec",
+    "_snow_created_on": "2025-10-10 16:59:52",
+    "_snow_updated_on": "2026-01-08 11:52:24",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000025",
+    "title": "Need to add more memory to laptop",
+    "priority": "medium",
+    "agent": "Infra Fault Resolver Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "Infra Fault Resolver Agent",
+    "complexity": 3.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: IBM-T42-DLG",
+      "Category: Hardware",
+      "Subcategory: null",
+      "Assigned To: ITIL User",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: I have a project involving video editing to complete. I've installed the editing software and the memory in my laptop is insufficient to run it effectively."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000025",
+          "Category: Hardware",
+          "Opened: 2025-10-10 16:55:07"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 3.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: hardware",
+          "Decision: Assign to Infra Fault Resolver Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Infra Fault Resolver Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46f09e75a9fe198100f4ffd8d366d17b",
+    "_snow_created_on": "2025-10-10 16:55:07",
+    "_snow_updated_on": "2026-01-08 11:44:35",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000020",
+    "title": "I need a replacement iPhone, please",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.2,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Assigned To: ITIL User",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: In Progress",
+      "Description: I lost my work-issued iPhone 7 while traveling last week and need a replacement device. I've erased the phone remotely and have called my carrier to shut off service to it."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000020",
+          "Category: Inquiry / Help",
+          "Opened: 2025-10-10 16:51:54"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.2/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46edaa6aa9fe198101b9d14ced16619f",
+    "_snow_created_on": "2025-10-10 16:51:54",
+    "_snow_updated_on": "2026-01-08 11:45:32",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000019",
+    "title": "Can't launch 64-bit Windows 7 virtual machine",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 3.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Bud Richman",
+      "Impact: 2 - Medium",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: I downloaded and installed 64-bit Windows 7 virtual machine and I can't get it to launch. I'm not sure if I need 64-bit or 32-bit."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000019",
+          "Category: Software",
+          "Opened: 2025-10-10 16:45:51"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 3.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46e8219ba9fe1981013806b6e04fed06",
+    "_snow_created_on": "2025-10-10 16:45:51",
+    "_snow_updated_on": "2026-01-08 11:46:13",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000018",
+    "title": "Sales forecast spreadsheet is READ ONLY",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.5,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: null",
+      "Subcategory: null",
+      "Assigned To: ITIL User",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Were the permissions on the sales forecast spreadsheet changed recently? They were editable last week but are read only today. Can someone update the permissions to make the spreadsheet editable again"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000018",
+          "Category: null",
+          "Opened: 2025-10-10 16:42:56"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.5/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: null",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46e57642a9fe1981000b96a5dca501ff",
+    "_snow_created_on": "2025-10-10 16:42:56",
+    "_snow_updated_on": "2026-01-08 11:37:49",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000016",
+    "title": "Rain is leaking on main DNS Server",
+    "priority": "medium",
+    "agent": "Infra Fault Resolver Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "Infra Fault Resolver Agent",
+    "complexity": 5.5,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Hardware",
+      "Subcategory: null",
+      "Assigned To: ITIL User",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: Seeing puddles of water on the floor of the server room. We've put buckets out to collect the water until this is fixed."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000016",
+          "Category: Hardware",
+          "Opened: 2025-10-10 16:41:15"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.5/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: hardware",
+          "Decision: Assign to Infra Fault Resolver Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Infra Fault Resolver Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46e3e949a9fe19810069b824ba2c761a",
+    "_snow_created_on": "2025-10-10 16:41:15",
+    "_snow_updated_on": "2026-01-08 11:51:23",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000015",
+    "title": "I can't launch my VPN client since the last software update",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "135d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.7,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: Saints and Sinners Bingo",
+      "Category: Software",
+      "Subcategory: null",
+      "Assigned To: Don Goodliffe",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: There was a software update two days ago and now my VPN doesn't work. Nothing loads when I click on the VPN client icon on my desktop."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000015",
+          "Category: Software",
+          "Opened: 2025-10-10 16:40:15"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.7/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "46e2fee9a9fe19810049b49dee0daf58",
+    "_snow_created_on": "2025-10-10 16:40:15",
+    "_snow_updated_on": "2026-01-08 11:50:33",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000003",
+    "title": "Wireless access is down in my area",
+    "priority": "medium",
+    "agent": "NOC Workbench Agent",
+    "started": "651d ago",
+    "assignment": "agent",
+    "assignTo": "NOC Workbench Agent",
+    "complexity": 4.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Network",
+      "Subcategory: null",
+      "Assigned To: Beth Anglin",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: In Progress",
+      "Description: I just moved from floor 2 to floor 3 and my laptop cannot connect to any wireless network."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000003",
+          "Category: Network",
+          "Opened: 2024-05-13 07:41:46"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: network",
+          "Decision: Assign to NOC Workbench Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to NOC Workbench Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "e8caedcbc0a80164017df472f39eaed1",
+    "_snow_created_on": "2024-05-13 07:41:46",
+    "_snow_updated_on": "2026-01-08 11:51:14",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000002",
+    "title": "Network file shares access issue",
+    "priority": "medium",
+    "agent": "NOC Workbench Agent",
+    "started": "666d ago",
+    "assignment": "agent",
+    "assignTo": "NOC Workbench Agent",
+    "complexity": 5.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "CMDB CI: FileServerFloor2",
+      "Category: Network",
+      "Subcategory: null",
+      "Assigned To: Howard Johnson",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: On Hold",
+      "Description: User can't get to any of his files on the file server."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000002",
+          "Category: Network",
+          "Opened: 2024-04-28 15:30:06"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: network",
+          "Decision: Assign to NOC Workbench Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to NOC Workbench Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "9d385017c611228701d22104cc95c371",
+    "_snow_created_on": "2024-04-28 15:30:06",
+    "_snow_updated_on": "2026-01-08 11:51:11",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0008001",
+    "title": "ATF:TEST2",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "1865d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 5.2,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0008001",
+          "Category: Inquiry / Help",
+          "Opened: 2021-01-15 13:04:34"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.2/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "0c5f3cece1b12010f877971dea0b1449",
+    "_snow_created_on": "2021-01-15 13:04:34",
+    "_snow_updated_on": "2021-01-21 15:31:42",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0001990",
+    "title": "Unable to access the personal details section in payroll portal",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "2087d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 5.5,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: On Hold",
+      "Description: Unable to access the personal details section in payroll portal"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0001990",
+          "Category: Inquiry / Help",
+          "Opened: 2020-06-07 09:03:43"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.5/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "a2496c05731110107418660c4cf6a711",
+    "_snow_created_on": "2020-06-07 09:03:43",
+    "_snow_updated_on": "2020-06-07 09:04:34",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0008112",
+    "title": "Assessment :  ATF Assessor",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "2401d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 5.3,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0008112",
+          "Category: Inquiry / Help",
+          "Opened: 2019-07-29 11:49:28"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.3/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "552c48888c033300964f4932b03eb092",
+    "_snow_created_on": "2019-07-29 11:49:28",
+    "_snow_updated_on": "2019-07-29 11:49:28",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0008111",
+    "title": "ATF : Test1",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "2408d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.2,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New"
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0008111",
+          "Category: Inquiry / Help",
+          "Opened: 2019-07-22 14:05:17"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.2/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "a83820b58f723300e7e16c7827bdeed2",
+    "_snow_created_on": "2019-07-22 14:05:17",
+    "_snow_updated_on": "2019-07-22 14:05:48",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0007002",
+    "title": "Need access to the common drive.",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "2686d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.3,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 2 - Medium",
+      "State: New",
+      "Description: Need access to the common drive for sharing files which can be accessed by all members. Please provide access."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0007002",
+          "Category: Inquiry / Help",
+          "Opened: 2018-10-16 22:48:24"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.3/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "ff4c21c4735123002728660c4cf6a758",
+    "_snow_created_on": "2018-10-16 22:48:24",
+    "_snow_updated_on": "2018-12-12 23:28:49",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0007001",
+    "title": "Employee payroll application server is down.",
+    "priority": "medium",
+    "agent": "Infra Fault Resolver Agent",
+    "started": "2686d ago",
+    "assignment": "agent",
+    "assignTo": "Infra Fault Resolver Agent",
+    "complexity": 4,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Hardware",
+      "Subcategory: null",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: New",
+      "Description: Employee payroll application server is down.Not able to login with valid credentials."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0007001",
+          "Category: Hardware",
+          "Opened: 2018-10-16 22:47:45"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: hardware",
+          "Decision: Assign to Infra Fault Resolver Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Infra Fault Resolver Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "f12ca184735123002728660c4cf6a7ef",
+    "_snow_created_on": "2018-10-16 22:47:45",
+    "_snow_updated_on": "2026-01-09 13:28:10",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0009001",
+    "title": "Unable to post content on a Wiki page",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "2721d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.1,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 2 - Medium",
+      "Urgency: 2 - Medium",
+      "State: New",
+      "Description: I am not able to edit a wiki page."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0009001",
+          "Category: Inquiry / Help",
+          "Opened: 2018-09-11 20:57:01"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.1/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "a623cdb073a023002728660c4cf6a768",
+    "_snow_created_on": "2018-09-11 20:57:01",
+    "_snow_updated_on": "2018-12-12 23:32:42",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0009005",
+    "title": "Email server is down.",
+    "priority": "medium",
+    "agent": "Application Support Agent",
+    "started": "2732d ago",
+    "assignment": "agent",
+    "assignTo": "Application Support Agent",
+    "complexity": 4.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Software",
+      "Subcategory: Email",
+      "Impact: 1 - High",
+      "Urgency: 1 - High",
+      "State: New",
+      "Description: Unable to send or receive emails."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0009005",
+          "Category: Software",
+          "Opened: 2018-08-31 21:35:45"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: software",
+          "Decision: Assign to Application Support Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to Application Support Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "ed92e8d173d023002728660c4cf6a7bc",
+    "_snow_created_on": "2018-08-31 21:35:45",
+    "_snow_updated_on": "2018-12-12 23:18:55",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0009009",
+    "title": "Unable to access the shared folder.",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "2734d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 4.8,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 2 - Medium",
+      "State: New",
+      "Description: Unable to access the shared folder. Please provide access."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0009009",
+          "Category: Inquiry / Help",
+          "Opened: 2018-08-30 01:06:52"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 4.8/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "57af7aec73d423002728660c4cf6a71c",
+    "_snow_created_on": "2018-08-30 01:06:52",
+    "_snow_updated_on": "2018-12-12 23:30:24",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  },
+  {
+    "id": "INC0000058",
+    "title": "Performance problems with email",
+    "priority": "medium",
+    "agent": "AI Triage Agent",
+    "started": "3483d ago",
+    "assignment": "agent",
+    "assignTo": "AI Triage Agent",
+    "complexity": 5.6,
+    "pastTickets": [],
+    "sops": [],
+    "enrichment": [
+      "Category: Inquiry / Help",
+      "Subcategory: null",
+      "Impact: 3 - Low",
+      "Urgency: 3 - Low",
+      "State: New",
+      "Description: Taking a really long time to send emails. Last email took almost a minute for sending to complete and there wasn't even an attachment."
+    ],
+    "triageSteps": [
+      {
+        "title": "Knowledge Base Search",
+        "details": [
+          "Searching KB for matching patterns...",
+          "Awaiting AI Triage analysis"
+        ]
+      },
+      {
+        "title": "Ticket Enrichment",
+        "details": [
+          "Source: ServiceNow INC0000058",
+          "Category: Inquiry / Help",
+          "Opened: 2016-08-10 09:37:45"
+        ]
+      },
+      {
+        "title": "Complexity Calculation",
+        "details": [
+          "Priority medium factor applied",
+          "Score: 5.6/10 — LOW"
+        ]
+      },
+      {
+        "title": "Assignment Decision",
+        "details": [
+          "Category-based routing: inquiry / help",
+          "Decision: Assign to AI Triage Agent"
+        ]
+      }
+    ],
+    "decisionType": "agent-assign",
+    "decisionLabel": "Assigned to AI Triage Agent",
+    "decisionParams": [
+      "Standard Priority",
+      "ServiceNow Sourced",
+      "Agent Capable",
+      "Auto-Polled"
+    ],
+    "_snow_sys_id": "965c9e5347c12200e0ef563dbb9a7156",
+    "_snow_created_on": "2016-08-10 09:37:45",
+    "_snow_updated_on": "2016-08-10 09:37:45",
+    "_polled_at": "2026-02-23T07:00:51.953Z"
+  }
+]

@@ -1,0 +1,568 @@
+﻿/* =============================================================================
+   PORTFOLIO & ROI — Premium Dark Theme
+   ============================================================================= */
+
+/* ── Page Container ── */
+.pf-page {
+  padding: 24px 28px 48px;
+  min-height: 100vh;
+  animation: pf-pageIn 0.45s ease-out both;
+}
+
+@keyframes pf-pageIn {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Breadcrumb / Header Bar ── */
+.pf-breadcrumb {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #292929;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.pf-breadcrumb-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.88rem;
+  color: #888;
+}
+
+.pf-breadcrumb-left i {
+  color: #555;
+  font-size: 0.75rem;
+}
+
+.pf-crumb-tag {
+  background: rgba(230, 0, 31, 0.12);
+  color: #006734;
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 4px 14px;
+  border-radius: 6px;
+  letter-spacing: 0.03em;
+}
+
+.pf-breadcrumb-right {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #ccc;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pf-breadcrumb-right i {
+  color: #006734;
+}
+
+/* ── Section Title ── */
+.pf-section-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pf-section-title .pf-live-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #2ecc40;
+  animation: pf-dotPulse 1.8s ease-in-out infinite;
+}
+
+@keyframes pf-dotPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(46,204,64,0.5); }
+  50%      { box-shadow: 0 0 0 6px rgba(46,204,64,0); }
+}
+
+/* ── Metrics Grid ── */
+.pf-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(165px, 1fr));
+  gap: 14px;
+  margin-bottom: 28px;
+}
+
+.pf-metric-card {
+  background: #1e1e1e;
+  border: 1px solid #2a2a2a;
+  border-radius: 14px;
+  padding: 18px 16px 14px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+  animation: pf-cardUp 0.4s ease-out both;
+}
+
+.pf-metric-card:nth-child(1) { animation-delay: 0.05s; }
+.pf-metric-card:nth-child(2) { animation-delay: 0.1s; }
+.pf-metric-card:nth-child(3) { animation-delay: 0.15s; }
+.pf-metric-card:nth-child(4) { animation-delay: 0.2s; }
+.pf-metric-card:nth-child(5) { animation-delay: 0.25s; }
+.pf-metric-card:nth-child(6) { animation-delay: 0.3s; }
+.pf-metric-card:nth-child(7) { animation-delay: 0.35s; }
+
+@keyframes pf-cardUp {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.pf-metric-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.35);
+  border-color: #00673433;
+}
+
+.pf-metric-card.pf-highlight {
+  background: linear-gradient(135deg, #006734, #004d27);
+  border-color: #006734;
+}
+
+.pf-metric-card.pf-highlight .pf-metric-value,
+.pf-metric-card.pf-highlight .pf-metric-label,
+.pf-metric-card.pf-highlight .pf-metric-unit,
+.pf-metric-card.pf-highlight .pf-metric-change {
+  color: #fff;
+}
+
+.pf-metric-card.pf-highlight .pf-metric-icon-corner {
+  color: rgba(255,255,255,0.3);
+}
+
+.pf-metric-icon-corner {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  font-size: 0.82rem;
+  color: #444;
+}
+
+.pf-metric-value {
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1;
+  margin-bottom: 2px;
+  letter-spacing: -0.02em;
+}
+
+.pf-metric-unit {
+  font-size: 0.78rem;
+  color: #888;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.pf-metric-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+
+.pf-metric-change {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #2ecc40;
+}
+
+.pf-metric-sparkline {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 32px;
+  opacity: 0.15;
+}
+
+.pf-metric-sparkline svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Summary Section ── */
+.pf-summary-section {
+  background: #1a1a1a;
+  border: 1px solid #292929;
+  border-radius: 14px;
+  padding: 24px;
+  animation: pf-cardUp 0.5s ease-out both;
+  animation-delay: 0.3s;
+}
+
+.pf-summary-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.pf-summary-info {
+  color: #666;
+  font-size: 0.8rem;
+  margin-top: 2px;
+}
+
+.pf-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.pf-select {
+  background: #232323;
+  border: 1px solid #333;
+  border-radius: 8px;
+  color: #ccc;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 7px 12px;
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23888' fill='none' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  padding-right: 28px;
+}
+
+.pf-select:hover,
+.pf-select:focus {
+  border-color: #006734;
+  background-color: #282828;
+}
+
+.pf-apply-btn {
+  background: linear-gradient(135deg, #006734, #004d27);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 7px 18px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.2s;
+}
+
+.pf-apply-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(230, 0, 31, 0.35);
+}
+
+/* ── Pagination ── */
+.pf-pagination {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.pf-page-btn {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: #888;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 5px 9px;
+  cursor: pointer;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+  min-width: 28px;
+  text-align: center;
+}
+
+.pf-page-btn:hover {
+  background: #2a2a2a;
+  color: #ccc;
+}
+
+.pf-page-btn.active {
+  background: #006734;
+  color: #fff;
+  border-color: #006734;
+}
+
+/* ── Custom Scrollbar — Premium Dark ── */
+.pf-table-wrap::-webkit-scrollbar,
+.pf-page::-webkit-scrollbar,
+.pf-summary-section::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.pf-table-wrap::-webkit-scrollbar-track,
+.pf-page::-webkit-scrollbar-track,
+.pf-summary-section::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.pf-table-wrap::-webkit-scrollbar-thumb,
+.pf-page::-webkit-scrollbar-thumb,
+.pf-summary-section::-webkit-scrollbar-thumb {
+  background: rgba(230, 0, 31, 0.25);
+  border-radius: 10px;
+  transition: background 0.3s;
+}
+
+.pf-table-wrap::-webkit-scrollbar-thumb:hover,
+.pf-page::-webkit-scrollbar-thumb:hover,
+.pf-summary-section::-webkit-scrollbar-thumb:hover {
+  background: rgba(230, 0, 31, 0.55);
+}
+
+.pf-table-wrap::-webkit-scrollbar-corner,
+.pf-page::-webkit-scrollbar-corner,
+.pf-summary-section::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+/* Firefox scrollbar */
+.pf-table-wrap,
+.pf-page,
+.pf-summary-section {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(230, 0, 31, 0.25) transparent;
+}
+
+/* ── Data Table ── */
+.pf-table-wrap {
+  overflow-x: auto;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+
+.pf-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.84rem;
+}
+
+.pf-table th {
+  background: #232323;
+  color: #aaa;
+  font-weight: 600;
+  font-size: 0.74rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 12px 14px;
+  text-align: left;
+  border-bottom: 2px solid rgba(230, 0, 31, 0.15);
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  user-select: none;
+}
+
+.pf-table th.sortable {
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.pf-table th.sortable:hover {
+  color: #006734;
+}
+
+.pf-table th .pf-sort-icon {
+  margin-left: 4px;
+  font-size: 0.65rem;
+  color: #555;
+  transition: color 0.2s;
+}
+
+.pf-table th.sortable:hover .pf-sort-icon,
+.pf-table th.sorted .pf-sort-icon {
+  color: #006734;
+}
+
+.pf-table td {
+  padding: 11px 14px;
+  color: #ccc;
+  border-bottom: 1px solid #222;
+  vertical-align: middle;
+}
+
+.pf-table tbody tr {
+  transition: background 0.18s;
+  animation: pf-fadeRow 0.35s ease-out both;
+}
+
+.pf-table tbody tr:nth-child(1) { animation-delay: 0.03s; }
+.pf-table tbody tr:nth-child(2) { animation-delay: 0.06s; }
+.pf-table tbody tr:nth-child(3) { animation-delay: 0.09s; }
+.pf-table tbody tr:nth-child(4) { animation-delay: 0.12s; }
+.pf-table tbody tr:nth-child(5) { animation-delay: 0.15s; }
+.pf-table tbody tr:nth-child(6) { animation-delay: 0.18s; }
+.pf-table tbody tr:nth-child(7) { animation-delay: 0.21s; }
+.pf-table tbody tr:nth-child(8) { animation-delay: 0.24s; }
+.pf-table tbody tr:nth-child(9) { animation-delay: 0.27s; }
+.pf-table tbody tr:nth-child(10) { animation-delay: 0.3s; }
+
+@keyframes pf-fadeRow {
+  from { opacity: 0; transform: translateX(-6px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.pf-table tbody tr:hover {
+  background: #232323;
+}
+
+.pf-table tbody tr.pf-parent-row {
+  cursor: pointer;
+}
+
+.pf-table tbody tr.pf-parent-row:hover {
+  background: rgba(230, 0, 31, 0.06);
+}
+
+.pf-table tbody tr.pf-parent-row.pf-expanded {
+  background: rgba(230, 0, 31, 0.04);
+}
+
+.pf-expand-btn {
+  background: none;
+  border: none;
+  color: #006734;
+  font-size: 0.72rem;
+  cursor: pointer;
+  padding: 4px;
+  transition: transform 0.25s;
+  width: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pf-expand-btn.expanded {
+  transform: rotate(90deg);
+}
+
+/* Child rows */
+.pf-table tbody tr.pf-child-row {
+  animation: pf-childSlide 0.25s ease-out both;
+}
+
+@keyframes pf-childSlide {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.pf-table tbody tr.pf-child-row td {
+  padding: 8px 14px 8px 38px;
+  font-size: 0.8rem;
+  border-bottom: 1px solid #1e1e1e;
+  background: rgba(230, 0, 31, 0.02);
+}
+
+.pf-child-dot {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #006734;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.pf-child-name {
+  color: #006734;
+  font-weight: 600;
+}
+
+/* ── Number formatting ── */
+.pf-num {
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+}
+
+.pf-num-highlight {
+  color: #fff;
+  font-weight: 600;
+}
+
+/* ── Mini bar inside cells ── */
+.pf-cell-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pf-cell-bar {
+  height: 4px;
+  border-radius: 2px;
+  background: rgba(230, 0, 31, 0.15);
+  flex: 1;
+  max-width: 60px;
+  overflow: hidden;
+}
+
+.pf-cell-bar-fill {
+  height: 100%;
+  border-radius: 2px;
+  background: #006734;
+  transition: width 0.6s ease-out;
+}
+
+/* ── Table Footer — Pagination Bar ── */
+.pf-table-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 4px 2px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.pf-table-footer-left {
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.pf-table-footer-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.pf-page-size-label {
+  font-size: 0.78rem;
+  color: #666;
+  font-weight: 500;
+}
+
+/* ── Responsive ── */
+@media (max-width: 1100px) {
+  .pf-metrics-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+}
+
+@media (max-width: 900px) {
+  .pf-page { padding: 16px 12px 36px; }
+  .pf-metrics-grid { grid-template-columns: repeat(2, 1fr); }
+  .pf-summary-header { flex-direction: column; align-items: flex-start; }
+  .pf-controls { flex-wrap: wrap; }
+  .pf-breadcrumb { flex-direction: column; align-items: flex-start; }
+}
+
+@media (max-width: 600px) {
+  .pf-metrics-grid { grid-template-columns: 1fr; }
+}
